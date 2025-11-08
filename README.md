@@ -41,3 +41,6 @@ transformer-midterm/
 直接运行脚本安装所有依赖：
 ```bash
 pip install -r requirements.txt
+=======
+# annotated-transformer-master
+大模型中期作业：从零构建Transformer并验证性能

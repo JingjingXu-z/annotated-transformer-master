@@ -1,0 +1,13 @@
+# 基础依赖
+python==3.10.12
+torch==2.0.1  # 深度学习框架（作业1.53要求：PyTorch）
+numpy==1.25.2 # 数值计算
+matplotlib==3.7.2 # 绘制训练曲线（作业1.15要求）
+
+# 数据与Tokenizer
+datasets==2.14.5  # 加载IWSLT2017数据集（作业1.22要求）
+transformers==4.30.2 # T5-small Tokenizer（作业数据预处理）
+nltk==3.8.1  # 计算BLEU评分（作业6.66要求）
+
+# 其他
+tqdm==4.65.0 # 显示训练进度条

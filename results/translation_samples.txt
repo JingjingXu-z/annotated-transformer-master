@@ -1,0 +1,27 @@
+Transformer翻译样本（英→德）
+==================================================
+样本1：
+英文原文：small car studies .
+德文参考译文：alt auto liest .
+模型预测译文：groß hund baut . liest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+--------------------------------------------------
+样本2：
+英文原文：new car eats .
+德文参考译文：neu haus wächst .
+模型预测译文：klein student baut . baut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+--------------------------------------------------
+样本3：
+英文原文：happy dog eats .
+德文参考译文：groß computer baut .
+模型预测译文：klug computer studiert . baut studiert haus . . . . . studiert studiert studiert studiert haus studiert . . . . . . . . . . . . . haus haus haus studiert studiert studiert studiert studiert studiert studiert . . . . haus haus haus
+--------------------------------------------------
+样本4：
+英文原文：big house reads .
+德文参考译文：neu hund isst .
+模型预测译文：groß auto studiert . studiert auto auto auto auto auto . . auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto
+--------------------------------------------------
+样本5：
+英文原文：new student studies .
+德文参考译文：neu student studiert .
+模型预测译文：klug hund läuft . baut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+--------------------------------------------------

@@ -1,0 +1,22 @@
+{
+  "iwslt2017-en-de": {
+    "description": "Mock IWSLT2017 dataset for testing",
+    "splits": {
+      "train": {
+        "name": "train",
+        "num_bytes": 100000,
+        "num_examples": 20000
+      },
+      "validation": {
+        "name": "validation",
+        "num_bytes": 10000,
+        "num_examples": 1000
+      },
+      "test": {
+        "name": "test",
+        "num_bytes": 10000,
+        "num_examples": 1000
+      }
+    }
+  }
+}
